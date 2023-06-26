@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mouawiya
-- 👀 I’m interested in 3d image processing, web and app building
-- 🌱 I’m currently learning python and matlab
-- 💞️ I’m looking to collaborate on lidar image processing 
-- 📫 my email is : mouawiya93@gmail.com
+- 👀 I am a passionate front-end web developer in training to be a full-stack developer
+- 🌱 I’m currently learning different front-end framework (React, Angular) while following online Udemy courses for back-end
+- 💞️ I’m looking for any job opportunities in my domain to enrich my knowledge as grow as web developer 
+- 📫 my email is : mouaouiaguinoubi@gmail.com
 
 <!---
 mouawiya/mouawiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
